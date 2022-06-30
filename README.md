@@ -1,2 +1,1 @@
 # soundgarden-js
-s
